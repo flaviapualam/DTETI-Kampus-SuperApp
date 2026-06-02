@@ -39,9 +39,11 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### D. Administrasi & Layanan Pendukung ⚙️
-<!-- START MENAMBAHKAN DI SINI -->
-
-<!-- BERHENTI MENAMBAHKAN DI SINI -->
+* **Nama Fitur:** Klaim Presensi
+* **Deskripsi Singkat:** Fitur ini memungkinkan mahasiswa untuk melakukan klaim presensi melalui aplikasi.
+* **Target Pengguna Utama:** Mahasiswa S1 & S2 DTETI
+* **Value Proposition:** Mempermudah prosedur klaim presensi
+* **Diajukan oleh:** 494376 
 
 ### E. Ide Inovatif Lainnya ✨
 <!-- START MENAMBAHKAN DI SINI -->
